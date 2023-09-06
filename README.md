@@ -22,7 +22,7 @@ Ce projet utilisera Html, CSS, Vanilla Javascript.
 <br>
 <br>
 <p align="center">
-Jouez avec "Tetris Next Gen" : 100sue.github.io/tetris-scoreur
+Jouez avec "Tetris Next Gen" : 100sue.github.io/tetris-scoreur/
 </p>
 
 <br>
